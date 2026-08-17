@@ -10,6 +10,15 @@ The board integrates the core hardware required for a compact UAV flight-control
 
 The complete electrical schematic is provided in this repository along with images of the designed PCB.
 
+## Hardware Images
+
+### PCB Front View
+
+![Falcon F4 Flight Controller - Front View](PCB%20FRONT%20VIEW.png)
+
+### PCB Back View
+
+![Falcon F4 Flight Controller - Back View](PCB%20BACK%20VIEW.png)
 ## Key Features
 
 * STM32F405RGT6 ARM Cortex-M4 microcontroller
@@ -505,16 +514,6 @@ The Falcon F4 is intended as a hardware platform for:
 * Custom flight-control firmware
 * Robotics applications
 * Experimental aircraft
-
-## Hardware Images
-
-### PCB Front View
-
-![Falcon F4 Flight Controller - Front View](Images/PCB%20FRONT%20VIEW.png)
-
-### PCB Back View
-
-![Falcon F4 Flight Controller - Back View](Images/PCB%20BACK%20VIEW.png)
 
 ## Schematic
 
